@@ -1,0 +1,159 @@
+.App {
+	text-align: center;
+}
+
+.App-logo {
+	height: 40vmin;
+	pointer-events: none;
+}
+
+.App-header {
+	background-color: #eeeeee;
+	min-height: 100vh;
+	display: flex;
+	flex-wrap: wrap;
+	flex-direction: row;
+	align-items: center;
+	justify-content: center;
+	font-size: calc(10px + 2vmin);
+	color: white;
+}
+
+.buttonAudio {
+	display: flex;
+	flex-direction: column;
+	justify-content: center;
+	width: 50%;
+	height: auto;
+}
+
+.navbar {
+	position: fixed;
+	background-color: #eeeeee;
+	display: block;
+	width: 100%;
+	height: 80px;
+	top: 0;
+	left: 0;
+  z-index: 5;
+}
+
+.nav-buttons {
+	position: relative;
+	display: block;
+}
+
+.nav-buttons a {
+	position: relative;
+	float: right;
+	margin: 40px;
+	text-decoration: none;
+	color: black;
+}
+
+.protectHer-logo {
+	position: absolute;
+	left: 0;
+}
+
+.sos-logo {
+	position: absolute;
+	left: 30px;
+	top: 20px;
+	height: 80px;
+}
+
+.recordButton {
+	position: relative;
+	top: 0;
+	margin-right: auto;
+	margin-left: auto;
+	width: 200px;
+	height: 200px;
+	border-radius: 50%;
+	background-color: #e62a2a;
+	border: none;
+	box-shadow: 0 0 60px 20px #00000075;
+	font-size: 2rem;
+	color: white;
+}
+
+.recordButton:active {
+	box-shadow: 0 0 60px 40px #00000075;
+}
+
+.recordStopButton {
+	position: relative;
+	top: 0;
+	margin-right: auto;
+	margin-left: auto;
+	width: 200px;
+	height: 200px;
+	border-radius: 50%;
+	background-color: #66e62a;
+	border: none;
+	box-shadow: 0 0 60px 20px #00000075;
+	font-size: 2rem;
+	color: rgb(0, 0, 0);
+}
+
+.recordStopButton:active {
+	box-shadow: 0 0 60px 40px #00000075;
+}
+
+.videoContainer {
+	position: relative;
+	width: 70%;
+	height: 80%;
+	margin: 50px;
+}
+
+.audioBar {
+	margin-top: 40px;
+	margin-right: auto;
+	margin-left: auto;
+}
+
+.gmap {
+	position: relative;
+	right: 0;
+}
+
+footer{
+  margin-bottom: 30px;
+  background-color: #eeeeee
+}
+
+.addresses {
+	color: #3b3b3b;
+}
+
+.getipButton {
+	width: 50%;
+	font-size: 1.5rem;
+	height: 30px;
+	border-radius: 10px;
+	background-color: #525252;
+	margin-left: auto;
+	margin-right: auto;
+	border: none;
+	box-shadow: 5px 5px 5px #969696, -5px -5px 5px #bebebe;
+	color: #f8f8f8;
+	font-variant: small-caps;
+}
+
+.inputIP {
+	width: 60%;
+	height: 30px;
+	font-size: 1.2rem;
+	margin: 5px;
+	margin-top: 10px;
+}
+
+.submit {
+	position: relative;
+	width: 100px;
+	height: 36px;
+	margin-left: 10px;
+	top: -3px;
+}
