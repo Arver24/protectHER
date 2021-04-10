@@ -1,6 +1,22 @@
 # IDEA : [protectHER](https://protecther.netlify.app/)
+<a href="https://hack36.com"> <img src="http://bit.ly/BuiltAtHack36" height=20px align="right"> </a>
 ## Idea Description:
 
+
+
+### Links:
+- The working video is avaliable [here]()
+- The presentation ppt is avaliable [here]()
+
+### Contributors:
+Team Name: TheDebuggers
+- [Archit Verma](https://github.com/Arver24/)
+- [Mehul Kaushal](https://github.com/Destroyer4114)
+- [Priyav Kaneria](https://github.com/priyavKaneria)
+- [Sanskar Omar](https://github.com/sanskaromar)
+
+### Made at:
+<a href="https://hack36.com"> <img src="http://bit.ly/BuiltAtHack36" height=20px> </a>
 
 
 
@@ -40,7 +56,7 @@ UI features
 Lorem ipsum dolor sit amet, consectetuer adipiscing elit, sed diam nonummy nibh euismod tincidunt ut laoreet dolore magna aliquam erat volutpat.
 User’s privacy
 Lorem ipsum dolor sit amet, consectetuer adipiscing elit, sed diam nonummy nibh euismod tincidunt ut laoreet dolore magna aliquam erat volutpat.
-Future of protectHER beyond Hack36
+Future of protectHER beyond Hack
 Scalability
 Lorem ipsum dolor sit amet, consectetuer adipiscing elit, sed diam nonummy nibh euismod tincidunt ut laoreet dolore magna aliquam erat volutpat.
 Dolor sit amet
@@ -55,10 +71,6 @@ The other reasons are as explained above like :
 Intended for everyone
 Totally free to use
 Not just an app
-Contact Us:
-Archit Verma
-Mehul Kaushal
-Priyav Kaneria
-Sanskar Omar
+
 
 -->
