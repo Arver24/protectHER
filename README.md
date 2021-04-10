@@ -1,14 +1,31 @@
 # IDEA : [protectHER](https://protecther.netlify.app/)
 <a href="https://hack36.com"> <img src="http://bit.ly/BuiltAtHack36" height=20px align="right"> </a>
+
 ## Idea Description:
+Our project protectHER provides two way communication for the one who faces the crime or for the one who witnesses the crime with the security authorities directly.
+
+**protectHER**: The application for the one who faces or witnesses the crime, allows the person to record and upload real time audio, video as well as location in the databases.
+
+**SOS**: The application for the security officials provides a way to identify the location, the act which took place and the graphics if any, of the crime occurrence. The security official can enter the IP Address of the victim which is provided by the application and gets the victim’s information.
 
 
+### Hosted Application Links:
+- The link to user side client - protectHER can be accessed [here](https://protecther.netlify.app/)
+- The link to police side client - SOS(safeOsecure) can be accessed [here](https://sos-safeosecure.netlify.app)
 
-### Links:
-- The link to user side client can be accessed [here](https://protecther.netlify.app/)
-- The link to police side client can be accessed [here](https://sos-safeosecure.netlify.app)
+### Demo Video Link:
 - The working video is avaliable [here]()
+
+### Presentation Link:
 - The presentation ppt is avaliable [here]()
+
+## Table of Contents:
+
+### Technology Stack:
+  1) ReactJs
+  2) Firebase Firestore Database
+  3) Firebase Storage
+  4) Java (Android Studio) for sample android app
 
 ### Contributors:
 Team Name: TheDebuggers
