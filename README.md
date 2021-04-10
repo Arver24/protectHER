@@ -17,7 +17,7 @@ Our project protectHER provides two way communication for the one who faces the 
 - The working video is avaliable [here](https://drive.google.com/file/d/1qiVKUm4yh6FXzuWnnHbJ7axp3sziDXcw/view?usp=sharing)
 
 ### Presentation Link:
-- The presentation ppt is avaliable [here]()
+- The presentation ppt is avaliable [here](https://drive.google.com/file/d/1P1dsOiyiLPRYQLcbVPTUT-j-2FwEqihs/view?usp=sharing)
 
 ## Table of Contents:
 
