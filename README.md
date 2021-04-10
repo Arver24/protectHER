@@ -22,7 +22,7 @@ Our project protectHER provides two way communication for the one who faces the 
 ## Table of Contents:
 
 ### Technology Stack:
-  1) ReactJs
+  1) ReactJS
   2) Firebase Firestore Database
   3) Firebase Storage
   4) Java (Android Studio) for sample android app
