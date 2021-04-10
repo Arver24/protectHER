@@ -6,7 +6,7 @@ Our project protectHER provides two way communication for the one who faces the 
 
 **protectHER**: The application for the one who faces or witnesses the crime, allows the person to record and upload real time audio, video as well as location in the databases.
 
-**SOS**: The application for the security officials provides a way to identify the location, the act which took place and the graphics if any, of the crime occurrence. The security official can enter the IP Address of the victim which is provided by the application and gets the victim’s information.
+**SOS-safeOsecure**: The application for the security officials provides a way to identify the location, the act which took place and the graphics if any, of the crime occurrence. The security official can enter the IP Address of the victim which is provided by the application and gets the victim’s information.
 
 
 ### Hosted Application Links:
@@ -14,7 +14,7 @@ Our project protectHER provides two way communication for the one who faces the 
 - The link to police side client - SOS(safeOsecure) can be accessed [here](https://sos-safeosecure.netlify.app)
 
 ### Demo Video Link:
-- The working video is avaliable [here]()
+- The working video is avaliable [here](https://drive.google.com/file/d/1qiVKUm4yh6FXzuWnnHbJ7axp3sziDXcw/view?usp=sharing)
 
 ### Presentation Link:
 - The presentation ppt is avaliable [here]()
